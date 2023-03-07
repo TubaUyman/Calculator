@@ -23,6 +23,7 @@ public class MainActivity extends AppCompatActivity {
         text1 = findViewById(R.id.editTextTextPersonName);
         text2 = findViewById(R.id.editTextTextPersonName2);
         result2 = findViewById(R.id.textView);
+        //test
 
     }
 
